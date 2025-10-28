@@ -582,9 +582,6 @@ a:hover {
   color: #ffe022;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
-}
 .form-control {
   font-family: 'Urbanist', sans-serif;
   font-size: 1.125rem;
